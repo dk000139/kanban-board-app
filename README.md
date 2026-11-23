@@ -55,3 +55,7 @@ npm run build
 
 - React フロントは静的ホスティング（Vercel、Netlify など）で十分。
 - PWA 化やバックエンド連携など、必要に応じて機能拡張してください。
+
+## ライセンス
+
+このプロジェクトは [MIT License](./LICENSE) のもとで公開されています。
