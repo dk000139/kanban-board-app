@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+paddleocr
+paddlepaddle
+numpy
+pillow
